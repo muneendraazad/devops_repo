@@ -1,0 +1,4 @@
+Create some random files for example- touch file file2 file3
+After creating or changing the content in the files
+We need to add those to staging area using the command
+
